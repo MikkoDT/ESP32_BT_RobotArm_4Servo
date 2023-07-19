@@ -15,6 +15,7 @@
 
  4. Open your code, edit it depending on your pin connections. Then upload it tou your ESP32,
  5. At your phone go to Gamepad,
+    
     ![image](https://github.com/MikkoDT/ESP32_BT_RobotArm_4Servo/assets/93197249/94346205-126c-4e55-b9b8-4551413b6e68)
 
  6. Turn on your Bluetooth at the upper right side of the screen. Choose the ESP32 address and wait it to connect,
